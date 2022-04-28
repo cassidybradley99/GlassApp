@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205633655720",
+    "project_id": "glassapp-3c4ed",
+    "storage_bucket": "glassapp-3c4ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205633655720:android:c94dcd1f32d6baf94d839d",
+        "android_client_info": {
+          "package_name": "com.example.glassapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205633655720-01ihbcpe72d5lk9ot6p843qen96rnite.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQrM5_lQF139wgff7nsVNCt6l9H8ken90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205633655720-01ihbcpe72d5lk9ot6p843qen96rnite.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
